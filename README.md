@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alexandros
-- 👀 I’m interested in how information coded in the DNA interacts with the environment to shape this amazing complexity of life on earth.
-- 🌱 I’m currently learning how to find recombination and mutation in the DNA of barn owls.
-- 💞️ I’m looking to work on GWAS in a wild population, to attempt to find the genetic basis of traits.
+- 👀 I’m interested in how information coded in the DNA shapes the amazing complexity of life on earth.
+- 🌱 I’m currently identifying recombination and mutation in the DNA of barn owls🦉.
+- 💞️ I enjoy working on genetics from an evolutionary perspective. I also enjoy games 🎮, cooking time and beer(s) 🍺.
 - 📫 You can reach me at topalei@gmail.com
 
 <!---
